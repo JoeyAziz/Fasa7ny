@@ -1,0 +1,15 @@
+{
+  "App": {
+    "webServer": {
+      "protocol": "",
+      "host": "",
+      "port": 0
+    }
+  },
+  "MySQL": {
+    "host": "",
+    "user": "",
+    "password": "",
+    "database": ""
+  }
+}
