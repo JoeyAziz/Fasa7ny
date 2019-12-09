@@ -33,4 +33,5 @@ app.use("/fasahny", fasahnyRoutes);
 //listen to port number
 app.listen(port, () => {
   console.log("listening on port " + port);
+  console.log(config.get("App.webServer.host"));
 });
